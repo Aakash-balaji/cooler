@@ -1,0 +1,6 @@
+# CoolerWorks Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://coolerworks.in/sitemap.xml

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://coolerworks.in/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://coolerworks.in/images/hero-cooler.jpg</image:loc>
+      <image:title>Air Cooler Repair and Doorstep Service in Hyderabad</image:title>
+      <image:caption>Professional evaporative air cooler service in Hyderabad and Secunderabad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://coolerworks.in/images/technician-cooler-service.jpg</image:loc>
+      <image:title>Certified Doorstep Air Cooler Service Technician</image:title>
+      <image:caption>Expert technician repairing air cooler motor and cooling pads</image:caption>
+    </image:image>
+  </url>
+</urlset>
