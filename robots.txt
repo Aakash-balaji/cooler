@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://coolerworks.in/sitemap.xml
+Sitemap: https://cooler.hydservicepro.com/sitemap.xml

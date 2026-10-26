@@ -925,6 +925,12 @@ button, input, textarea, select {
   gap: 16px;
 }
 
+#how-it-works .features-text > .btn {
+  display: flex;
+  width: fit-content;
+  margin-inline: auto;
+}
+
 #how-it-works .tech-assign-mockup {
   position: absolute;
   bottom: -20px;
