@@ -1,8 +1,8 @@
 /**
  * ==============================================================================
- * CoolerWorks — Premium SaaS Platform Client Script
+ * hydservicepro — Premium SaaS Platform Client Script
  * ==============================================================================
- * Production-ready JavaScript providing interactivity for CoolerWorks
+ * Production-ready JavaScript providing interactivity for hydservicepro
  * single-page platform (index.html).
  *
  * Modules included:
@@ -33,10 +33,10 @@
  * ==============================================================================
  */
 const injectDynamicStyles = () => {
-  if (document.getElementById('coolerworks-dynamic-styles')) return;
+  if (document.getElementById('hydservicepro-dynamic-styles')) return;
 
   const style = document.createElement('style');
-  style.id = 'coolerworks-dynamic-styles';
+  style.id = 'hydservicepro-dynamic-styles';
   style.textContent = `
     /* Toast Notification System */
     #toast-container {
@@ -823,7 +823,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Success state
       emailInput.classList.remove('input-error');
-      showToast('Thank you for subscribing to CoolerWorks updates!', 'success');
+      showToast('Thank you for subscribing to hydservicepro updates!', 'success');
       newsletterForm.reset();
     });
 
